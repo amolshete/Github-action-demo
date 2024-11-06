@@ -42,3 +42,4 @@ jobs:
         run: |
           ls
           pwd
+          mvn --version
